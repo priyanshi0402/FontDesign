@@ -1,0 +1,46 @@
+PODS:
+  - Adjust (4.29.6):
+    - Adjust/Core (= 4.29.6)
+  - Adjust/Core (4.29.6)
+  - AppLovinSDK (11.1.1)
+  - GA-SDK-IOS (4.6.2)
+  - JGProgressHUD (2.2)
+  - Ripples (0.1.0)
+  - Sketch (3.0)
+  - SwiftyGif (5.4.2)
+  - SwiftyStoreKit (0.16.1)
+
+DEPENDENCIES:
+  - Adjust
+  - AppLovinSDK
+  - GA-SDK-IOS
+  - JGProgressHUD
+  - Ripples
+  - Sketch
+  - SwiftyGif
+  - SwiftyStoreKit
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - AppLovinSDK
+    - GA-SDK-IOS
+    - JGProgressHUD
+    - Ripples
+    - Sketch
+    - SwiftyGif
+    - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  Adjust: 94f1c99429fb2a7ebe530294fd66a88d63a54922
+  AppLovinSDK: a418677708090e2116e9080c3ca46cc81df7b8de
+  GA-SDK-IOS: 0255d2b2df60ec343a224d010bb0b3a8e9c30a46
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  Ripples: 8f0078d81c55235351e77903cf540405c497f3f9
+  Sketch: 49a4b71f7bc77316ed5f75ee79dedaa2b844d5e7
+  SwiftyGif: dec758a9dd3d278e5a855dbf279bf062c923c387
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+
+PODFILE CHECKSUM: 34efe31f7f534993922ddb0cc55f114dc19677e1
+
+COCOAPODS: 1.11.2
